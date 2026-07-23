@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Привет, я QA Engineer on Iurii Kriazhevskikh | QA Engineer</title>
+		<title>Hello, I&#39;m QA Automation Engineer on Iurii Kriazhevskikh | QA Engineer</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content in Привет, я QA Engineer on Iurii Kriazhevskikh | QA Engineer</description>
+		<description>Recent content in Hello, I&#39;m QA Automation Engineer on Iurii Kriazhevskikh | QA Engineer</description>
 		<generator>Hugo</generator>
-		<language>ru-ru</language>
+		<language>en-us</language>
 		
 		
 		
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Контакты</title>
-				<link>http://localhost:1313/contact/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/contact/</guid>
-				<description>&lt;p&gt;Вы можете связаться со мной по следующим каналам:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:iurii.kriazhevskikh@icloud.com&#34; &gt;iurii.kriazhevskikh@icloud.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;www.linkedin.com/in/iurii-kriazhevskikh&#34; &gt;ваш профиль&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/YuriiKriazhevskikh&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ваш логин&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Также я открыт к сотрудничеству и обсуждению интересных проектов.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Обо мне</title>
+				<title>About Me</title>
 				<link>http://localhost:1313/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;Я инженер по тестированию с опытом работы в ручном и автоматизированном тестировании веб-приложений и API.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Мои навыки:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ручное тестирование: функциональное, регрессионное, исследовательское.&lt;/li&gt;&#xA;&lt;li&gt;Автоматизация: Selenium WebDriver, JUnit, TestNG, Allure.&lt;/li&gt;&#xA;&lt;li&gt;API-тестирование: Postman, REST Assured.&lt;/li&gt;&#xA;&lt;li&gt;Инструменты: Jira, Confluence, Git, Jenkins, Docker.&lt;/li&gt;&#xA;&lt;li&gt;Базы данных: SQL (MySQL, PostgreSQL).&lt;/li&gt;&#xA;&lt;li&gt;Языки программирования: Java, Python (базовый уровень).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Опыт работы:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Компания N&lt;/em&gt;, старший QA-инженер (2020–2026): автоматизация тестирования, настройка CI/CD, написание тестовой документации.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Компания M&lt;/em&gt;, QA-инженер (2017–2020): ручное тестирование, составление баг-репортов, работа с требованиями.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Образование:&lt;/strong&gt; &amp;hellip; (укажите своё)&lt;/p&gt;</description>
+				<description>&lt;p&gt;I am a QA Automation Engineer with over 5 years of commercial experience testing enterprise web, desktop, and backend applications. My core expertise is test automation with Python (Pytest, Playwright, Requests), along with manual testing, API testing, SQL, and performance testing.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Skills:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation:&lt;/strong&gt; Python, Pytest, Playwright, Requests, Selenium WebDriver (C#), NUnit, RestSharp&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;API Testing:&lt;/strong&gt; Postman, Swagger, REST Assured&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases:&lt;/strong&gt; SQL (MySQL, PostgreSQL) – complex queries, JOINs, stored procedures&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Azure DevOps, Git, Docker, Grafana, Zabbix, Apache JMeter&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methodologies:&lt;/strong&gt; Agile, Scrum, full testing lifecycle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Professional Experience:&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Проекты</title>
+				<title>Contact</title>
+				<link>http://localhost:1313/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/contact/</guid>
+				<description>&lt;p&gt;You can reach me through the following channels:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:iurii.kriazhevskikh@icloud.com&#34; &gt;iurii.kriazhevskikh@icloud.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/iurii-kriazhevskikh&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/iurii-kriazhevskikh&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/YuriiKriazhevskikh&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/YuriiKriazhevskikh&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telegram:&lt;/strong&gt; @duralexsedlexspb&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I am open to collaboration and discussing new opportunities.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Projects</title>
 				<link>http://localhost:1313/projects/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/projects/</guid>
-				<description>&lt;p&gt;&lt;strong&gt;Проект 1: Автотесты для интернет-магазина&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Стек: Selenium WebDriver, Java, TestNG, Maven, Allure.&lt;/li&gt;&#xA;&lt;li&gt;Разработал фреймворк для автоматизированного тестирования UI и API, интегрировал в Jenkins для ежедневного запуска.&lt;/li&gt;&#xA;&lt;li&gt;Результат: сокращение времени регрессионного тестирования на 70%.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Проект 2: Тестирование микросервисов&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Стек: REST Assured, Docker, Postman.&lt;/li&gt;&#xA;&lt;li&gt;Написал автотесты для проверки REST API, настроил окружение с использованием Docker Compose.&lt;/li&gt;&#xA;&lt;li&gt;Выявил и помог исправить критические баги на этапе разработки.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<description>&lt;h3 id=&#34;test-automation-for-flight-booking-platform&#34;&gt;&#xA;  Test Automation for Flight Booking Platform&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#test-automation-for-flight-booking-platform&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python, Pytest, Playwright, Requests, SQL, Azure DevOps&lt;/li&gt;&#xA;&lt;li&gt;Developed and maintained automated test suites for FareWise (web) and TravelWise (desktop) applications.&lt;/li&gt;&#xA;&lt;li&gt;Validated end-to-end booking workflows, GDS integrations (Amadeus, Sabre, Galileo), and database consistency.&lt;/li&gt;&#xA;&lt;li&gt;Integrated automated tests into CI/CD pipelines for daily regression runs.&lt;/li&gt;&#xA;&lt;li&gt;Performed performance testing with Apache JMeter, identified bottlenecks, and contributed to load balancer implementation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;api-testing-and-data-validation&#34;&gt;&#xA;  API Testing and Data Validation&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#api-testing-and-data-validation&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Python Requests, Postman, Swagger, SQL&lt;/li&gt;&#xA;&lt;li&gt;Created a comprehensive REST API test suite covering positive/negative scenarios, JSON/XML validation.&lt;/li&gt;&#xA;&lt;li&gt;Performed complex SQL queries to reconcile data between API responses and backend databases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;performance--load-testing&#34;&gt;&#xA;  Performance &amp;amp; Load Testing&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#performance--load-testing&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Apache JMeter, Grafana, Prometheus&lt;/li&gt;&#xA;&lt;li&gt;Designed and executed load tests to simulate high user concurrency, analysed metrics, and helped optimise system performance.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

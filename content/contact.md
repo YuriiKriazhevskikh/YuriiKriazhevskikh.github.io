@@ -1,11 +1,12 @@
 ---
-title: "Контакты"
+title: "Contact"
 ---
 
-Вы можете связаться со мной по следующим каналам:
+You can reach me through the following channels:
 
 - **Email:** iurii.kriazhevskikh@icloud.com
-- **LinkedIn:** [ваш профиль](www.linkedin.com/in/iurii-kriazhevskikh)
-- **GitHub:** [ваш логин](https://github.com/YuriiKriazhevskikh)
+- **LinkedIn:** [linkedin.com/in/iurii-kriazhevskikh](https://linkedin.com/in/iurii-kriazhevskikh)
+- **GitHub:** [github.com/YuriiKriazhevskikh](https://github.com/YuriiKriazhevskikh)
+- **Telegram:** @duralexsedlexspb
 
-Также я открыт к сотрудничеству и обсуждению интересных проектов.
+I am open to collaboration and discussing new opportunities.

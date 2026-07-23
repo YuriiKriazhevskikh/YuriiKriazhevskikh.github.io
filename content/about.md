@@ -1,19 +1,29 @@
 ---
-title: "Обо мне"
+title: "About Me"
 ---
 
-Я инженер по тестированию с опытом работы в ручном и автоматизированном тестировании веб-приложений и API.
+I am a QA Automation Engineer with over 5 years of commercial experience testing enterprise web, desktop, and backend applications. My core expertise is test automation with Python (Pytest, Playwright, Requests), along with manual testing, API testing, SQL, and performance testing.
 
-**Мои навыки:**
-- Ручное тестирование: функциональное, регрессионное, исследовательское.
-- Автоматизация: Selenium WebDriver, JUnit, TestNG, Allure.
-- API-тестирование: Postman, REST Assured.
-- Инструменты: Jira, Confluence, Git, Jenkins, Docker.
-- Базы данных: SQL (MySQL, PostgreSQL).
-- Языки программирования: Java, Python (базовый уровень).
+**Key Skills:**
+- **Automation:** Python, Pytest, Playwright, Requests, Selenium WebDriver (C#), NUnit, RestSharp
+- **API Testing:** Postman, Swagger, REST Assured
+- **Databases:** SQL (MySQL, PostgreSQL) – complex queries, JOINs, stored procedures
+- **Tools:** Azure DevOps, Git, Docker, Grafana, Zabbix, Apache JMeter
+- **Methodologies:** Agile, Scrum, full testing lifecycle
 
-**Опыт работы:**
-- *Компания N*, старший QA-инженер (2020–2026): автоматизация тестирования, настройка CI/CD, написание тестовой документации.
-- *Компания M*, QA-инженер (2017–2020): ручное тестирование, составление баг-репортов, работа с требованиями.
+**Professional Experience:**
+- **Billetkontoret A/S** (2021–2025) – QA Engineer  
+  Responsible for quality assurance of a large-scale travel platform (web booking FareWise, desktop back-office TravelWise) integrated with Amadeus, Sabre, and Galileo.  
+  - Designed, developed, and maintained automated tests using Python, Pytest, Playwright, and Page Object Model.  
+  - Performed end-to-end, regression, smoke, integration, backend, and API testing.  
+  - Conducted performance and load testing with Apache JMeter.  
+  - Validated data with SQL (MySQL, PostgreSQL).  
+  - Collaborated with developers, product owners, and business teams to ensure software quality.
 
-**Образование:** ... (укажите своё)
+- **LLC Production Company "Sevkabel"** (2018–2021) – General Legal Advisor  
+- **LLC Investment Company "VITUS"** (2016–2018) – Lead Lawyer  
+
+**Education:**
+- Software Testing (QA) – BrunoYam (2020–2021)
+- Bachelor's in Law – Moscow Institute of Public Administration and Law (2013–2016)
+- Bachelor's in Law – Nizhny Novgorod Police Academy (2007–2012)
