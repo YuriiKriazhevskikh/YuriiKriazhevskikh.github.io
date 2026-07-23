@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Привет, я QA Engineer on Iurii Kriazhevskikh | QA Engineer</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content in Привет, я QA Engineer on Iurii Kriazhevskikh | QA Engineer</description>
+		<generator>Hugo</generator>
+		<language>ru-ru</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Контакты</title>
+				<link>http://localhost:1313/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/contact/</guid>
+				<description>&lt;p&gt;Вы можете связаться со мной по следующим каналам:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:iurii.kriazhevskikh@icloud.com&#34; &gt;iurii.kriazhevskikh@icloud.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;www.linkedin.com/in/iurii-kriazhevskikh&#34; &gt;ваш профиль&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/YuriiKriazhevskikh&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ваш логин&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Также я открыт к сотрудничеству и обсуждению интересных проектов.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Обо мне</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Я инженер по тестированию с опытом работы в ручном и автоматизированном тестировании веб-приложений и API.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Мои навыки:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ручное тестирование: функциональное, регрессионное, исследовательское.&lt;/li&gt;&#xA;&lt;li&gt;Автоматизация: Selenium WebDriver, JUnit, TestNG, Allure.&lt;/li&gt;&#xA;&lt;li&gt;API-тестирование: Postman, REST Assured.&lt;/li&gt;&#xA;&lt;li&gt;Инструменты: Jira, Confluence, Git, Jenkins, Docker.&lt;/li&gt;&#xA;&lt;li&gt;Базы данных: SQL (MySQL, PostgreSQL).&lt;/li&gt;&#xA;&lt;li&gt;Языки программирования: Java, Python (базовый уровень).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Опыт работы:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Компания N&lt;/em&gt;, старший QA-инженер (2020–2026): автоматизация тестирования, настройка CI/CD, написание тестовой документации.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Компания M&lt;/em&gt;, QA-инженер (2017–2020): ручное тестирование, составление баг-репортов, работа с требованиями.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Образование:&lt;/strong&gt; &amp;hellip; (укажите своё)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Проекты</title>
+				<link>http://localhost:1313/projects/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/projects/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Проект 1: Автотесты для интернет-магазина&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Стек: Selenium WebDriver, Java, TestNG, Maven, Allure.&lt;/li&gt;&#xA;&lt;li&gt;Разработал фреймворк для автоматизированного тестирования UI и API, интегрировал в Jenkins для ежедневного запуска.&lt;/li&gt;&#xA;&lt;li&gt;Результат: сокращение времени регрессионного тестирования на 70%.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Проект 2: Тестирование микросервисов&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Стек: REST Assured, Docker, Postman.&lt;/li&gt;&#xA;&lt;li&gt;Написал автотесты для проверки REST API, настроил окружение с использованием Docker Compose.&lt;/li&gt;&#xA;&lt;li&gt;Выявил и помог исправить критические баги на этапе разработки.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

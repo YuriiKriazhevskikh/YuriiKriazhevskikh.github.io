@@ -1,0 +1,44 @@
+baseURL = "https://YuriiKriazhevskikh.github.io/"
+languageCode = "ru-ru"
+title = "Iurii Kriazhevskikh | QA Engineer"
+theme = "coder"
+
+[params]
+  author = "Iurii Kriazhevskikh"
+  info = "QA Automation Engineer"
+  description = "Личный сайт-портфолио инженера по тестированию"
+  keywords = "QA, тестирование, автоматизация, Selenium, Postman"
+
+  # Социальные сети (иконки в подвале)
+  [[params.social]]
+    name = "LinkedIn"
+    url = "www.linkedin.com/in/iurii-kriazhevskikh"
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/YuriiKriazhevskikh"
+
+  # Цветовая схема (auto, dark, light)
+  colorTheme = "auto"
+
+# Навигационное меню
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
